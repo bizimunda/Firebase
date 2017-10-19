@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "315954146422",
+    "firebase_url": "https://moviefire-moviefire.firebaseio.com",
+    "project_id": "moviefire-moviefire",
+    "storage_bucket": "moviefire-moviefire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315954146422:android:3490a32cf885797d",
+        "android_client_info": {
+          "package_name": "com.android.hamid.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315954146422-u77ocf3d9eo9eo86veb9gdennb8cmdml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOYwsOqD2Kcq1PD9v2VxfcbZm8NgdBAM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
